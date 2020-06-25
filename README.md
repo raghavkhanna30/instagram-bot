@@ -19,3 +19,15 @@ it will work on hashtags.
  
  if you use headless_browser=true then it will not open browser and work in background
  
+ ## Speed-up
+ 
+ if you increase speed it may lead to restriction by INSTAGRAM
+ 
+ ## Like section
+ 
+ GIVE A STAR IF YOU LIKE THIS!!
+ 
+ Find me on twitter @erRaghavKhanna
+ 
+ or https://twitter.com/erRaghavKhanna
+ 
